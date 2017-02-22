@@ -1,0 +1,10 @@
+#body {
+	background-image:url(../img/officebg.jpg);
+	background-size: cover; 
+}
+
+#quote-text {
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+	margin-top: 20px;
+}
